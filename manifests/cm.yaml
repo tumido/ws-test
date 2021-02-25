@@ -1,0 +1,6 @@
+kind: ConfigMap
+apiVersion: v1
+metadata:
+  name: tcoufal-test-cm
+data:
+  some: data
